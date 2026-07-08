@@ -169,6 +169,14 @@ A real-time restaurant ordering system where customers scan a QR code to browse 
 
 <br/>
 
+<!--START_SECTION:snake-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/j-coder-shan/j-coder-shan/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
+<!--END_SECTION:snake-->
+
+<br/>
+
 ## 🌐 Connect With Me
 
 <div align="center">

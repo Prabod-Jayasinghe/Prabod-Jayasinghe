@@ -56,7 +56,7 @@ A full-stack financial research platform powered by a three-agent architecture â
 An AI chatbot that answers questions directly from uploaded PDF documents using retrieval-augmented generation, built across 8 structured phases with a full test suite.
 
 `Python` `FastAPI` `LangChain` `ChromaDB` `Ollama`
-<br/>*48 passing tests Â· resume-ready documentation*
+<br/>
 
 </td>
 </tr>

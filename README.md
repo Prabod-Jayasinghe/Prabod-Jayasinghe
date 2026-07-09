@@ -17,7 +17,7 @@
 <p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=j-coder-shan.j-coder-shan&label=Profile%20Views&color=00c6ff&style=for-the-badge" alt="Profile Views"/>
   <a href="https://github.com/j-coder-shan?tab=followers"><img src="https://img.shields.io/github/followers/j-coder-shan?label=Followers&style=for-the-badge&color=0f2027" alt="Followers"/></a>
-  <a href="https://linkedin.com/in/shanprabodh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/prabod-jayasinghe-76323830a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 </div>
